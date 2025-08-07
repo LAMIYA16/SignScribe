@@ -1,6 +1,6 @@
 # SignScribe  – Sign Language Detection Web App
 
-This project is a simple web application that detects sign language gestures from webcam images using a Convolutional Neural Network (CNN) built in TensorFlow and served through Flask.
+This project is a simple web application that detects sign language gestures from webcam images using TensorFlow and served through Flask.
 
 ---
 
@@ -53,7 +53,7 @@ sign_language_app/
 ├── collect_images.py # Script to collect images via webcam
 
 
-├── train_model.py # CNN model training script
+├── train_model.py # model training script
 
 
 ├── sign_model.h5 # Trained model file
