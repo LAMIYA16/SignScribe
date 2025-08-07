@@ -15,7 +15,7 @@ This project is a simple web application that detects sign language gestures fro
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript (base64 image capture)
+- **Frontend**: HTML5, CSS3
 - **Backend**: Flask (Python)
 - **Machine Learning**: TensorFlow / Keras
 - **Computer Vision**: OpenCV
